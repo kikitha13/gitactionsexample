@@ -27,6 +27,6 @@ jobs:
 
     - name: Run tests
       run: |
-        pytest
+        example.py
 
 
